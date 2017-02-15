@@ -2,7 +2,7 @@
 This is my first little program. A drawing of a cat.
 ***
 ## Screenshot
-![alt text](https://raw.githubusercontent.com/martinskodt/mini_ex2/gh-pages/mini_ex2%20kat.png)
+![alt text]()
 
 ## Coding process
 My process is very simplistic right now. i use the very few tools i have to create something that lives up to my own standard.
