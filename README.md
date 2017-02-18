@@ -2,7 +2,7 @@
 This is my first little program. A drawing of a cat.
 ***
 ## Screenshot
-![Screenshot]()
+![Screenshot](https://github.com/martinskodt/mini_ex2/blob/gh-pages/mini_ex2%20matrix.png)
 
 ## Coding process
 My process is very simplistic right now. I use the very few tools i have in coding, to create something that lives up to my own standard.
