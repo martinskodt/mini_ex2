@@ -3,8 +3,10 @@ This is my first little program. A reconstruction of the scene from the movie "T
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z_KmNZNT5xw
 " target="_blank"><img src="http://img.youtube.com/vi/z_KmNZNT5xw/0.jpg" 
-alt="" width="240" height="180" border="10" /></a>
+alt="Play me!" width="480" height="360" border="10" /></a>
+
 ***
+
 ## Screenshot
 ![Screenshot](https://github.com/martinskodt/mini_ex2/blob/gh-pages/mini_ex2%20matrix.png)
 
