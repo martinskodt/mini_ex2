@@ -1,5 +1,9 @@
 # mini_ex2
-This is my first little program. A drawing of a cat.
+This is my first little program. A reconstruction of the scene from the movie "The Matrix", where there happens a alteration in the Matrix. and a cat goes by twice creating deja vu. 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=z_KmNZNT5xw
+" target="_blank"><img src="http://img.youtube.com/vi/z_KmNZNT5xw/0.jpg" 
+alt="" width="240" height="180" border="10" /></a>
 ***
 ## Screenshot
 ![Screenshot](https://github.com/martinskodt/mini_ex2/blob/gh-pages/mini_ex2%20matrix.png)
