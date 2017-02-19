@@ -19,4 +19,4 @@ I wanted to create an image of the first thing i thought of when i saw the excer
 There is probably a very nice definition to that question. But i think it is, in its simplicity, a piece of independent software that create some form of algorithm. That algorithem can do simpel stuff. Such as show a square on a blank canvas, or advanced stuff as an anti virus program. and independent does not mean that it can't rely on other software to do the task. But all programs is that advanced.
 
 ## Reflect on the notion of error
-
+Error is often given as a form of deviation of the intention. When it happens in a digital media, a user or a spectator becomes aware of their using of the media and a interruption of immersion happens. But errors can come in many forms in the media of programs. They can be minor annoyances and imperfections, or they can be critical errors that disrupts an entire program. Errors in programs are offen attempts at something, that is not yet fully understood or perfectly intergrated to the existing code. It is "the actualisation of unforeseen potential" (T. Baker, "Error,the unforseen and the emergent")
