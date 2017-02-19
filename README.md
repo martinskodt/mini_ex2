@@ -1,5 +1,5 @@
 # mini_ex2
-This is my first little program. A reconstruction of the scene from the movie "The Matrix", where there happens a alteration in the Matrix. and a cat goes by twice creating deja vu. 
+This is my first little program. A simple reconstruction of the scene from the movie "The Matrix", where there happens a glitch in the Matrix. Which manifests in a cat goes by twice creating a deja vu. 
 
 #### Deja vu scene - The Matrix
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z_KmNZNT5xw
