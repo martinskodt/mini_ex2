@@ -11,7 +11,7 @@ function draw() {
 //Text
  textSize(60);
  fill(0)
- text("MATRIX",400,50)
+ text("Hej mor",400,50)
  
 //Tale bobel
  noFill()
